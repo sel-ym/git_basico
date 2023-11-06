@@ -17,3 +17,6 @@ git status
 5 - Pasar al stage
 git add .gitignore README.md
 
+6 - Pasar al commit (versión 1)
+git commit -m "README hasta el punto 6"
+git commit -a -m "README hasta el punto 6"
