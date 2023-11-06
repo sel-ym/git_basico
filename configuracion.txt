@@ -1,0 +1,9 @@
+# Copiar al terminal/consola
+git init
+git config user.name selina
+git config user.email twoslym@gmail.com
+git config --global core.autocrlf true
+git config --global core.editor "code --wait"
+git config --global init.default branch main
+
+# Para GITHUB (al final)
